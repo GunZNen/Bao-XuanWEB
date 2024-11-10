@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#content{
+    color: white;
+    background-color: green;
+    p{
+        font-size: 50%;
+        padding: auto;
+    }
+}
+
+    .menu{
+       
+        margin: 20px;
+        width: 100px;
+        
+        p{
+           padding: auto;
+        }
+    }
+
+.content-1{
+    display: flex;
+    justify-content: center;
+}
